@@ -8,4 +8,4 @@ chromadb
 sentence-transformers
 groq
 python-dotenv
-protobuf
+protobuf==3.20.3
