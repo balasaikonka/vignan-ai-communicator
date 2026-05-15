@@ -201,6 +201,10 @@ GROQ_API_KEY = "your_groq_api_key_here"
 
 ## Screenshots
 
+<img width="1600" height="917" alt="image" src="https://github.com/user-attachments/assets/7daeb162-26fa-49d2-84dc-f5bd795baf48" />
+<img width="1600" height="892" alt="image" src="https://github.com/user-attachments/assets/9f343d32-afe2-4f87-8975-b634cde9d1a2" />
+
+
 ### 💬 Messages Tab
 - Parent types in Telugu/Hindi/Tamil or Romanized script
 - Message is auto-translated and shown to counselor in English
